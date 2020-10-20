@@ -5,7 +5,7 @@
 周1の頻度でCommitを実施する予定です。
 
 ## About AiLearning-ja
-apachecn/AiLearningのレクチャーをベースに、コードを改良して、日本語化したものです。
+apachecn/AiLearningのレクチャーをベースに、コードを改良して、日本語化したものです。  
 Python初心者・でも理解できるように細かい部分に配慮したバージョンです。
 
 | Chapter | Title | Status |
