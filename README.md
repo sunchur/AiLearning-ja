@@ -1,8 +1,8 @@
 # AiLearning-ja
 
 ## About this repository
-当Repositoryは`AiLearning-ja`の公開版となります。
-周1の頻度でCommitを実施する予定です。
+当Repositoryは`AiLearning-ja`の公開版です。
+大きいアップデートは周1の頻度でCommitする予定です。
 
 ## About AiLearning-ja
 apachecn/AiLearningのレクチャーをベースに、コードを改良して、日本語化したものです。  
