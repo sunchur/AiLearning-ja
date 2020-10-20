@@ -1,7 +1,7 @@
 # AiLearning-ja
 
 ## About this repository
-当Repositoryは`AiLearning-ja`の公開版です。
+当Repositoryは`AiLearning-ja`の公開版です。  
 大きいアップデートは周1の頻度でCommitする予定です。  
 まだ工事中のため、誤字/ミスなどが多数あります。
 
