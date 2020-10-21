@@ -1,4 +1,4 @@
-# AiLearning-ja
+# AiLearning-ja(工事中)
 
 ## About this repository
 当Repositoryは`AiLearning-ja`の公開版です。  
